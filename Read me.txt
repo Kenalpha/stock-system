@@ -1,0 +1,1 @@
+->create a database called 'alpha_computers' then import 'alpha_computers.sql' files
